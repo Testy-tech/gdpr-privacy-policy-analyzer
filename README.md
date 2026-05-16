@@ -75,6 +75,9 @@ This tool is for learning and preliminary legal screening only. It does not repl
 pip install -r requirements.txt
 
 streamlit run app.py
+## Live Demo
+
+Try the app here: https://gdpr-privacy-policy-analyzer-fh4ynkvxkk2v62xhd3nevs.streamlit.app/
 
 Author
 
